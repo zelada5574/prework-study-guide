@@ -5,7 +5,6 @@
 - The purpose of this of this guide was to help settle my notes on the various topics covered in the preowrk
 - This project was compiled for practice purposes of the various topics learnt and how to proactice the git flow
 - It solves the problem the orginization problem of storing notes and practicing.
-- 
 
 ## Installation
 
